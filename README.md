@@ -28,7 +28,7 @@ Example:
   Writes the image.bin file to \\.\PHYSICALDRIVE0 starting at sector 0.
 
 Example:
-  C:\>notdd image=""C:\Long Path\image.bin"" device=0 startingsector=0
+  C:\>notdd image="C:\Long Path\image.bin" device=0 startingsector=0
   If the image file path has spaces in it, use quotation marks.
 
 Example:
